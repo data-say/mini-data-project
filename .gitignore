@@ -4,3 +4,6 @@ OnlineRetail/.ipynb_checkpoints/*
 .RData
 .Rhistory
 mini-data-project.Rproj
+BlogKPI/raw/*.xlsx
+BlogKPI/data/*.csv
+BlogKPI/.ipynb_checkpoints/*.ipynb
